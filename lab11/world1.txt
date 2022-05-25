@@ -1,0 +1,43 @@
+*** Fruit Bot Parameters ***
+battery_capacity=79
+maximum_fruit_kg=19
+maximum_move=10
+
+*** Turn 1 of 159 *** ***
+
+CSE: other
+Western Watermelons: will sell 56 kg of Watermelons for $15/kg
+J17 G03: will buy 9 kg of Oranges for $69/kg
+CLB 7: will buy 45 kg of Apples for $31/kg
+Campus Citrus Centre: will sell 28 kg of Oranges for $35/kg
+Rosebery Orange Grove: will sell 34 kg of Oranges for $41/kg
+Smelly Fruits R Us: will sell 30 kg of Durian for $54/kg
+Bondi Banana Growers: will sell 7 kg of Bananas for $58/kg
+Physics Theatre: will buy 8 kg of Bananas for $89/kg
+Drone Servicing: will sell 100 kJ of Electricity for $4/kJ
+Science Theatre: will buy 29 kg of Apples for $60/kg
+Kensington Apple Farm: will sell 31 kg of Apples for $17/kg
+Maroubra Melons: will sell 53 kg of Watermelons for $13/kg
+Sitar Lab: will buy 8 kg of Durian for $131/kg
+Clancy Auditorium: will buy 6 kg of Oranges for $60/kg
+Mathews B: will buy 22 kg of Watermelons for $34/kg
+Viola Lab: will buy 10 kg of Durian for $112/kg
+Wentworth Watermelons: will sell 62 kg of Watermelons for $17/kg
+Campus Charging: will sell 100 kJ of Electricity for $4/kJ
+Randwick Apple Orchard: will sell 28 kg of Apples for $19/kg
+Campus Compost Heap: will buy 1000 kg of Anything for $1/kg
+Campus Computers: will sell 41 kg of Apples for $29/kg
+Paddington Banana Plantation: will sell 8 kg of Bananas for $64/kg
+Kingsford Oranges: will sell 29 kg of Oranges for $37/kg
+Physics Lawn: other
+Quadrangle: other
+Anzac Parade: other
+Kora Lab: will buy 11 kg of Durian for $96/kg
+K17 Basement: will buy 14 kg of Bananas for $107/kg
+Mathews A: will buy 20 kg of Apples for $56/kg
+
+"Botty McBotbot" is at "CSE" with $117, battery level: 74
+"Buffalo McBuff" is at "CSE" with $117, battery level: 74
+"COMP1511 Student" is at "CSE" with $117, battery level: 74
+"Calf McCalf" is at "CSE" with $117, battery level: 74
+*** You are "COMP1511 Student"

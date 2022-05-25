@@ -1,0 +1,19 @@
+*** Fruit Bot Parameters ***
+battery_capacity=74
+maximum_fruit_kg=21
+maximum_move=7
+
+*** Turn 1 of 19 *** ***
+
+CSE: other
+Mathews A: will buy 1 kg of Apples for $51/kg
+Quadrangle: other
+Campus Charging: will sell 100 kJ of Electricity for $4/kJ
+Kensington Apple Farm: will sell 3 kg of Apples for $18/kg
+Campus Compost Heap: will buy 1000 kg of Anything for $1/kg
+CLB 7: will buy 3 kg of Apples for $43/kg
+
+"Botty McBotbot" is at "CSE" with $117, battery level: 74
+"Buffalo McBuff" is at "CSE" with $117, battery level: 74
+"COMP1511 Student" is at "CSE" with $117, battery level: 74
+*** You are "Botty McBotbot"
